@@ -1,2 +1,2 @@
 # FingerLock
-Repository for FingerLock tweakl
+Repository for FingerLock tweak
