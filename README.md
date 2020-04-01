@@ -8,4 +8,4 @@ Create new request
 
 ## Bug Reports
 
-Create new report
+[Create new report](https://github.com/MTACS/FingerLock/issues/new?assignees=MTACS&labels=bug&template=bug-report.md&title=)
