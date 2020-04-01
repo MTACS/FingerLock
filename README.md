@@ -1,5 +1,4 @@
-# FingerLock
-Repository for FingerLock tweak
+# FingerLock - A convenient way to unlock your device
 
 ![FingerLock](http://mtac.app/assets/images/fingerlockbanner.png)
 
