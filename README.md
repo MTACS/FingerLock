@@ -4,7 +4,7 @@
 
 ## Feature Requests
 
-Create new request
+[Create new request](https://github.com/MTACS/FingerLock/issues/new?assignees=MTACS&labels=&template=feature_request.md&title=)
 
 ## Bug Reports
 
