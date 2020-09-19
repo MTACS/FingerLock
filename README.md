@@ -18,12 +18,12 @@ FingerLock versions 2.3+ use a different system for custom images than before. E
 
 This new way of loading themes allows designers to package their custom theme into one that can be downloaded with a package manager. The layout of the folder structure is below. 
 
-|--layout
-    |--Library
-        |--Application Support
-            |--FingerLock
-                |--CustomTheme.bundle
-                    |--button.png
+```|--layout```
+   ```|--Library```
+        ```|--Application Support```
+            ```|--FingerLock```
+                ```|--CustomTheme.bundle```
+                   ```|--button.png```
                 
 Add this folder structure and build your deb. If you'd like it to appear in a section inside your package manager, add ```Section: Themes (FingerLock)``` to your control file.
 
