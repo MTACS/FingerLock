@@ -1,4 +1,4 @@
-# FingerLock - A convenient way to unlock your device
+# FingerLock
 
 ![FingerLock](http://mtac.app/assets/images/fingerlockbanner.png)
 
