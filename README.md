@@ -1,6 +1,6 @@
 # FingerLock
 
-![FingerLock](http://mtac.app/assets/com.mtac.fingerlock/banner.png)
+![FingerLock](http://mtac.app/repo/assets/com.mtac.fingerlock/banner.png)
 
 ## Current Features
 
