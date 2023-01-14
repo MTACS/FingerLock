@@ -32,6 +32,21 @@
   </ul>
  </details>
 
+<details>
+    <summary><strong>Screenshots</strong></summary>
+    <div style="display: grid; align-items: center;">
+        <img style="width: 25%; height: 25%;" src="https://mtac.app/repo/assets/com.mtac.fingerlock/screenshot/1.png">
+        <img style="width: 25%; height: 25%;" src="https://mtac.app/repo/assets/com.mtac.fingerlock/screenshot/2.png">
+        <img style="width: 25%; height: 25%;" src="https://mtac.app/repo/assets/com.mtac.fingerlock/screenshot/3.png">
+    </div>
+    <div style="display: grid; align-items: center;">
+        <img style="width: 25%; height: 25%;" src="https://mtac.app/repo/assets/com.mtac.fingerlock/screenshot/4.png">
+        <img style="width: 25%; height: 25%;" src="https://mtac.app/repo/assets/com.mtac.fingerlock/screenshot/5.png">
+        <img style="width: 25%; height: 25%;" src="https://mtac.app/repo/assets/com.mtac.fingerlock/screenshot/6.png">
+    </div>
+</details>
+
+
 ## Feature Requests
 
 [Create new request](https://github.com/MTACS/FingerLock/issues/new?assignees=MTACS&labels=&template=feature_request.md&title=)
